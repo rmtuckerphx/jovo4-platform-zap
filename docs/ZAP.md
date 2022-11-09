@@ -173,7 +173,7 @@ The minimum Core response is:
 {
   version: '4.0.0',
   platform: 'zap',
-  output: {},
+  output: [],
   context: {
     request: {},
     session: {
